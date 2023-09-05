@@ -1,9 +1,14 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=RuneLune's%20GitHub%20Profile&descAlignY=51&descAlign=62)](#)
 
 <p align="center" display="inline-block">
-    Language <br/>
+    Algorithm <br/>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label="> 
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label="> 
+</p>
+<p align="center" display="inline-block">
+    Deep Learning <br/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label="> 
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lightning&color=792EE5&logo=lightning&logoColor=FFFFFF&label="> 
 </p>
 <p align="center" display="inline-block">
     Backend <br/>
@@ -15,12 +20,12 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=">
 </p>
 <p align="center" display="inline-block">
-    Tools <br/>
+    Development Environment <br/>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=">
 </p>
 <p align="center" display="inline-block">
-    DB <br/>
+    Database Management <br/>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=">
 </p>
@@ -29,7 +34,7 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=">
 </p>
 <p align="center" display="inline-block">
-    Git Tools <br/>
+    Git Client <br/>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sourcetree&color=0052CC&logo=Sourcetree&logoColor=FFFFFF&label=">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitKraken&color=179287&logo=GitKraken&logoColor=FFFFFF&label=">
 </p>
@@ -39,7 +44,7 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=">
 </p>
 <p align="center" display="inline-block">
-    Project Management Tools <br/>
+    Project Management <br/>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=">
 </p>
